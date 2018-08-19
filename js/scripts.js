@@ -1,17 +1,5 @@
 // Business (or back-end) logic:
-$(document).ready(function() {
-        $("button#green").click(function() {
-          $("body").addClass("green-background");
-        });
 
-        $("button#yellow").click(function() {
-          $("body").addClass("yellow-background");
-        });
-
-        $("button#red").click(function() {
-          $("body").addClass("red-background");
-        });
-      });
 variable=parseint(document.querySelector('input{name ="variable"}:checked').value);
 sub=parseint(document.querySelector("input{name="sub"}:checked').value);
 con=parseint(document.querySelector('input{name="con"}:checked').value);
