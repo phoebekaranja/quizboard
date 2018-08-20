@@ -54,6 +54,9 @@ use of css in the Java script
 JavaScript for identifying a particular questions
 css for changing font color
 #Coding style tests
+
+
+
 correct misspelt words
 correct spacing
 correct procedures followed
@@ -70,3 +73,8 @@ Copyright (c) {year} **{List of contributors or company name}**
 #Acknowledgements
 INSPIRATION:strive to excel
 Others  
+
+
+##Specifications
+Which of the following is not considered as an error in JavaScript
+.answer. Division by zero
