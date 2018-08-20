@@ -54,9 +54,6 @@ use of css in the Java script
 JavaScript for identifying a particular questions
 css for changing font color
 #Coding style tests
-
-
-
 correct misspelt words
 correct spacing
 correct procedures followed
@@ -69,12 +66,13 @@ Phoebemurish@gmail.com
 No contributors at the moment
 ### License
 *{It is licensed under the MIT Licence.see the LICENSE.md}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2018} **{all}**
 #Acknowledgements
 INSPIRATION:strive to excel
 Others  
-
-
-##Specifications
+###Specifications 
 Which of the following is not considered as an error in JavaScript
 .answer. Division by zero
+##Inserted
+<div class="container">
+  <div class="jumbotron">
